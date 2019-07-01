@@ -1,0 +1,15 @@
+{
+  "name": "n7m",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jeff Long",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {},
+  "description": "Numeronym generator"
+}
